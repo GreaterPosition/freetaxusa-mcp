@@ -23,3 +23,6 @@ coverage/
 
 # Build artifacts
 *.tsbuildinfo
+
+# Local scratch (never commit)
+.scratch/
